@@ -1,0 +1,35 @@
+{
+  "name": "BluDood's Nitroless Repo",
+  "icon": "bludood.png",
+  "path": "emotes",
+  "emotes": [
+    {
+      "name": "trol",
+      "type": "webp"
+    },
+    {
+      "name": "apple_moai",
+      "type": "webp"
+    },
+    {
+      "name": "whar",
+      "type": "webp"
+    },
+    {
+      "name": "no",
+      "type": "webp"
+    },
+    {
+      "name": "clap",
+      "type": "gif"
+    },
+    {
+      "name": "smart",
+      "type": "webp"
+    },
+    {
+      "name": "thumbs_up",
+      "type": "webp"
+    }
+  ]
+}
